@@ -1,21 +1,18 @@
 # NoSQL Databases
+ ## NoSQL stands for 'Non-relational or distributed database system'
 
- ### NoSql stands for 'Non-relational or distributed database system'.
-
-
-\
 NoSQL databases ("not only SQL") are non tabular, and store data differently than relational tables. NoSQL databases come in a variety of types based on their data model. The main types are document, key-value, wide-column, and graph. They provide flexible schemas and scale easily with large amounts of data and high user loads. NoSQL databases are horizontally scalable. This means that you handle more traffic by sharding, or adding more servers in your NoSQL database.  
 
 
-<br>
-<br>
+
+
 
 ## Here are the some of NoSQL databases
 
-\
+
 There are so many NoSQL databases are available. MongoDB, CouchDB, CouchBase, Cassandra, HBase, Redis, Riak, Neo4J,DynamoDB are the popular NoSQL databases.
 
-### 1.MongoDB
+### 1. MongoDB
  
 MongoDB is a general purpose, document-based, distributed database built for modern application developers and for the cloud. In today’s IT industry, there are large number of companies who are using MongoDB as a database service for the applications or data storage systems. As per the survey made by Siftery on MongoDB, there are around 4000+ company confirmed that they are using MongoDB as Database. Some of the key names are :
 
@@ -41,11 +38,11 @@ Companies and development teams of all sizes use MongoDB because:
 
 * Scale your data repository to a massive size.
 
-<br>
 
- ### 2.DynamoDB
 
-\
+ ### 2. DynamoDB
+
+
 Amazon DynamoDB is a fully managed proprietary NoSQL database service that supports key-value and document data structures and is offered by Amazon.com as part of the Amazon Web Services portfolio.
 
  
@@ -57,15 +54,13 @@ Benefits of DynamoDB for Operations:
 *  Since DynamoDB is a NoSQL data model, it handles less structured data more efficiently than a relational data model, which is why it’s easier to address query volumes and offers high performance queries for item storage in inconsistent schemas.
 
 
-<br>
 
-### 3.HBase
 
-\
+### 3. HBase
+
+
 HBase is an open-source non-relational distributed database.
-Unlike relational database systems, HBase does not support a structured query language like SQL; in fact, HBase isn’t a relational data store at all.
-
-An HBase system is designed to scale linearly. It comprises a set of standard tables with rows and columns, much like a traditional database. Each table must have an element defined as a primary key, and all access attempts to HBase tables must use this primary key.
+Unlike relational database systems, HBase does not support a structured query language like SQL; in fact, HBase isn’t a relational data store at all. An HBase system is designed to scale linearly. It comprises a set of standard tables with rows and columns, much like a traditional database. Each table must have an element defined as a primary key, and all access attempts to HBase tables must use this primary key.
 
 * We can use this HBase feature for high-speed requirements because it offers consistent reads and writes.
 
@@ -78,13 +73,11 @@ An HBase system is designed to scale linearly. It comprises a set of standard ta
 * There is no concept of fixed columns schema in HBase because it is schema-less. Hence, it defines only column families
 
 
-<br>
 
-### 4.CouchBase
 
-Couchbase Server is a NoSQL document database for interactive web applications. It has a flexible data model, is easily scalable, provides consistent high performance and is capable of serving application data with 100% uptime. 
+### 4. CouchBase
 
-The primary unit of data storage in Couchbase Server is a JSON document. Because application objects are modeled as documents, schema migrations do not need to be performed.
+Couchbase Server is a NoSQL document database for interactive web applications. It has a flexible data model, is easily scalable, provides consistent high performance and is capable of serving application data with 100% uptime. The primary unit of data storage in Couchbase Server is a JSON document. Because application objects are modeled as documents, schema migrations do not need to be performed.
 
 * Provides multiple data access paths to query and manage your JSON documents. App developers can pick the data access pattern that best meets their requirements. Flexible data access paths makes Couchbase useful for a wide variety of apps and use cases.
 
@@ -93,10 +86,10 @@ The primary unit of data storage in Couchbase Server is a JSON document. Because
 * Built with a strong emphasis on reliability, high availability, and simple management, an important feature of Couchbase Server is that all operations can be done while the system remains online, without requiring modifications or interrupting running applications.
 
 
-<br>
 
-### 5.ElasticSearch
-<br>
+
+### 5. ElasticSearch
+
 
 Elasticsearch is a document oriented database. This NoSQL database is used if the full-text search is part of your solution. For applications that rely heavily on a search platform for the access, retrieval, and reporting of data.
 
@@ -115,7 +108,7 @@ Company Use Cases
 
 
 <br>
-<br>
+
 
 ## References
 
