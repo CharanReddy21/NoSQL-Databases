@@ -1,6 +1,6 @@
-># NoSQL Databases
+# NoSQL Databases
 
-> ### NoSql stands for 'Non-relational or distributed database system'.
+ ### NoSql stands for 'Non-relational or distributed database system'.
 
 
 \
@@ -10,12 +10,12 @@ NoSQL databases ("not only SQL") are non tabular, and store data differently tha
 <br>
 <br>
 
->## Here are the some of NoSQL databases
+## Here are the some of NoSQL databases
 
 \
 There are so many NoSQL databases are available. MongoDB, CouchDB, CouchBase, Cassandra, HBase, Redis, Riak, Neo4J,DynamoDB are the popular NoSQL databases.
 
->1.MongoDB
+### 1.MongoDB
  
 MongoDB is a general purpose, document-based, distributed database built for modern application developers and for the cloud. In today’s IT industry, there are large number of companies who are using MongoDB as a database service for the applications or data storage systems. As per the survey made by Siftery on MongoDB, there are around 4000+ company confirmed that they are using MongoDB as Database. Some of the key names are :
 
@@ -43,7 +43,7 @@ Companies and development teams of all sizes use MongoDB because:
 
 <br>
 
- >2.DynamoDB
+ ### 2.DynamoDB
 
 \
 Amazon DynamoDB is a fully managed proprietary NoSQL database service that supports key-value and document data structures and is offered by Amazon.com as part of the Amazon Web Services portfolio.
@@ -59,7 +59,7 @@ Benefits of DynamoDB for Operations:
 
 <br>
 
-> 3.HBase
+### 3.HBase
 
 \
 HBase is an open-source non-relational distributed database.
@@ -80,7 +80,7 @@ An HBase system is designed to scale linearly. It comprises a set of standard ta
 
 <br>
 
->4.CouchBase
+### 4.CouchBase
 
 Couchbase Server is a NoSQL document database for interactive web applications. It has a flexible data model, is easily scalable, provides consistent high performance and is capable of serving application data with 100% uptime. 
 
@@ -95,7 +95,7 @@ The primary unit of data storage in Couchbase Server is a JSON document. Because
 
 <br>
 
->5.ElasticSearch
+### 5.ElasticSearch
 <br>
 
 Elasticsearch is a document oriented database. This NoSQL database is used if the full-text search is part of your solution. For applications that rely heavily on a search platform for the access, retrieval, and reporting of data.
@@ -117,7 +117,7 @@ Company Use Cases
 <br>
 <br>
 
->References
+## References
 
 https://www.geeksforgeeks.org/difference-between-sql-and-nosql/
 
